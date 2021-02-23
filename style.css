@@ -1,0 +1,51 @@
+body{
+    background-color:black;
+    line-height: 1.7;
+    font-size: 1.4rem;
+
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+    line-height: 1.2;
+
+}
+h2{
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
+
+#img-div{
+    background-color: white;
+    padding: 8px;
+    margin: 0;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+}
+#img-caption{
+    margin: 20px 0 20px 0;
+    font-size: 12px;
+    text-align: center;
+
+}
+
+#tribute-info{
+    color: white;
+}
+li{
+    color: white;
+    list-style: none;
+    text-align: center;
+}
+
+#tribute-link{
+    color: white;
+    text-align: center;
+}
